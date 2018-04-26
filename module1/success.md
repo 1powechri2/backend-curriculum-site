@@ -13,14 +13,12 @@ Academic success in BEM1 means that students demonstrate proficiency and comfort
 
 A student who graduates from this module will be able to do the following.
 
-
-
 ### Ruby Syntax & Style
 
 #### Mastery
 
 * Identify and apply best choice methods for strings, integers, arrays and hashes
-* Consistently identify best-choice enumerables for interacting with collections
+* Consistently identify best-choice enumerables for interacting with arrays and hashes
 * Use if/else statements, loops, conditional statements, and boolean operators to manage control flow
 * Use Ruby docs and other online documentation to identify best-choice methods and approaches
 * Explain the difference between class and instance methods
@@ -28,71 +26,72 @@ A student who graduates from this module will be able to do the following.
 #### Functional
 
 * Name and describe elements of Ruby Syntax
+* Create and utilize modules to share code between classes
+* Be able to inherit code from a superclass
 * Import and export data to .csv and .txt files
-* Object Oriented Programming
-
 
 ### Breaking Logic Into Components
 
 #### Mastery
 
 * Translate abstract requirements into programmable concepts using whiteboarding and pseudocode
-* Decompose complex technical challenges into a series of smaller challenges
-* Develop complex algorithms and implement them in Ruby
+* Decompose large technical challenges into a series of smaller challenges
+* Use abstraction to layer complexity
+* Design classes and methods that have single responsibilities
 
 #### Functional
 
+* Write software that is testable at the unit level
+* Write software with clear inputs and outputs
+* Implement complex algorithms in Ruby
+
+### Test Driven Development
+
+#### Mastery
+
 * Translate specification requirements to tests that will drive design
-* Use abstraction to layer complexity
+* Write unit and integration tests that accurately describe a program's expected functionality
+* Understand and describe why we test software
 
+#### Functional
 
+* Understand and describe tests they did not write
 
 ### Debugging
+
+#### Mastery
 
 * Use debugging tools (e.g. `pry`) to help investigate assumptions and verify code behavior
 * Print to console to verify code behavior
 * Use pry or irb console sessions to test code tactics and address bugs
 * Demonstrate ability to choose appropriate debugging tactic to solve problems
 
-
-
-### Test Driven Development
-
-#### Mastery
-
-* Understand and describe why we test software
-* Understand and describe tests they did not write
-* Write unit and integration tests
-
-
-
 ### Version Control
 
 #### Mastery
 
-* Describe differences between local versus remote repositories
+* Understand git’s version control, both via the command line and through GitHub
+* Demonstrate version control proficiency by adding, committing, pushing, pulling, merging, and branching
+* Fork, clone, and make pull requests to facilitate collaboration
+* Describe differences between local and remote repositories
 
 #### Functional
 
-* Understand git’s version control, both via the command line and through GitHub
-* Demonstrate version control proficiency by adding, committing, merging and pushing code changes, as well as switching branches and retrieving earlier commit history
-* Fork, clone, fetch, and making pull requests to facilitate collaboration
-
-
+* Checkout earlier versions of a repository
+* Resolve merge conflicts
 
 ### Desktop Environment
 
 #### Mastery
 
-* Navigate machine to write, run, and test programs
-* Understand and explain how CLI, text editor and browser interact
+* Navigate machine to write and run programs
+* Understand and explain how CLI, text editor, and finder interact
 
 #### Functional
 
 * Move between programs without relying on mouse
 * Make use of keyboard shortcuts to minimize distractions
-
-
+* Utilize a window manager to maintain a organized workspace
 
 ### Collaboration
 
@@ -107,9 +106,7 @@ A student who graduates from this module will be able to do the following.
 * Articulate personal and learning needs in a constructive, clear manner
 * Advocate for and co-create team dynamics that balance the learning goals of all team members
 
-
-
-### Career Development (Additional Details
+### Career Development (Additional Details)
 
 * Cultivate Self-Awareness
 * Understand one's key strengths
