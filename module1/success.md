@@ -19,17 +19,17 @@ A student who graduates from this module will be able to do the following.
 
 #### Mastery
 
-* Identify and apply best choice methods for strings, integers, collections
+* Identify and apply best choice methods for strings, integers, arrays and hashes
 * Consistently identify best-choice enumerables for interacting with collections
 * Use if/else statements, loops, conditional statements, and boolean operators to manage control flow
 * Use Ruby docs and other online documentation to identify best-choice methods and approaches
+* Explain the difference between class and instance methods
 
 #### Functional
 
+* Name and describe elements of Ruby Syntax
 * Import and export data to .csv and .txt files
-* Speak clearly and accurately about OOP, language mechanics, and correctly name the elements of Ruby syntax
-* Explain the difference between class and instance methods
-
+* Object Oriented Programming
 
 
 ### Breaking Logic Into Components
@@ -43,6 +43,7 @@ A student who graduates from this module will be able to do the following.
 #### Functional
 
 * Translate specification requirements to tests that will drive design
+* Use abstraction to layer complexity
 
 
 
